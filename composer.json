@@ -1,5 +1,5 @@
 {
-  "name": "li5/elasticquent",
+  "name": "xpress7/elasticquent",
   "type": "library",
   "description": "Map Larvel Eloquent models to Elasticsearch types.",
   "keywords": [
@@ -7,7 +7,7 @@
     "eloquent",
     "laravel"
   ],
-  "homepage": "https://github.com/li5/Elasticquent",
+  "homepage": "https://github.com/xpress7/Elasticquent",
   "license": "MIT",
   "authors": [
     {
@@ -17,7 +17,7 @@
     }
   ],
   "require": {
-    "php": ">=5.5.9",
+    "php": ">=5.5",
     "illuminate/support": "~5.1",
     "illuminate/database": "~5.1",
     "nesbot/carbon": "~1.0",
